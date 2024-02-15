@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Clarify triton server boolean value (#8532)
